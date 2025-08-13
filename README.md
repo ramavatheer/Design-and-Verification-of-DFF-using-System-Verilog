@@ -1,0 +1,1 @@
+Implemented and verified a sequential circuit by developing a comprehensive testbench architecture for a D flip-flop using System Verilog. Designed stimulus generation, output monitoring, and waveform analysis to validate correct timing behavior, setup/hold requirements, and state retention, ensuring robust sequential logic implementation.
